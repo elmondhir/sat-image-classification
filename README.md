@@ -29,4 +29,4 @@ I decided to test three well-known CNN model families that have shown strong per
 
 **ResNet:** The residual network architecture from Microsoft introduced skip connections to allow easier training of very deep networks (up to 152 layers in ResNet-152). I used the ResNet50 variant which is 50 layers deep.
 
-VGG: The VGG network from Oxford prioritizes depth over width, with very small 3x3 convolutional filters stacked to achieve a large effective receptive field. I used the VGG16 variant with 16 weight layers.
+**VGG:** The VGG network from Oxford prioritizes depth over width, with very small 3x3 convolutional filters stacked to achieve a large effective receptive field. I used the VGG16 variant with 16 weight layers.
